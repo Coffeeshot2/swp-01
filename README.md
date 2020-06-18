@@ -1,3 +1,3 @@
-Minwoo Son
-20152833
-Kookmin Univ. SW
+# Minwoo Son
+# 20152833
+# Kookmin Univ. SW
